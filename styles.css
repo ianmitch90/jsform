@@ -1,0 +1,25 @@
+
+
+header{
+  background-color: #2980b9;
+  color: white;
+  text-align: center;
+  padding: 5%
+}
+
+footer {
+  background-color: #2980b9;
+}
+ input {
+  margin-bottom: 1em;
+}
+select {
+ margin-bottom: 1em;
+}
+
+.enterstuff {
+  border: #95a5a6;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+}
